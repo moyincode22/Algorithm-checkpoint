@@ -1,0 +1,17 @@
+LENGTH OF THE SENTENCE[NUMBER OF CHARACTERS].
+STEP 1:Get 2 containers
+STEP 2:Let one container contain the sentence[I LOVE JUSTIN BIEBER] and the other contain the sum
+STEP 3:Count the number of characters in the sentence and put it in the sum container
+STEP 4:Print your result.
+
+NUMBER OF WORDS IN THE SENTENCE[ASSUMING THEY ARE SEPERATED BY A SINGLE SPACE].
+STEP 1:Get 2 containers
+STEP 2:Let one container contain the sentence[I LOVE JUSTIN BIEBER] and the other contain the sum
+STEP 3:Count the number of words in the sentence including the spaces between each word[I-LOVE-JUSTIN-BIEBER]
+STEP 4:Print your result.
+
+NUMBER OF VOWELS IN THE SENTENCE.
+STEP 1:Get 2 containers
+STEP 2:Let one container contain the sentence[I LOVE JUSTIN BIEBER] and the other container the sum
+STEP 3:Count the number of vowels in the sentence[e.g. i,o,e] and put it in the sum container
+STEP 4:Print your result.
